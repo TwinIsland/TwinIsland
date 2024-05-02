@@ -1,4 +1,5 @@
-![aaa](suica_chara.gif | width=30)
+<img src="suica_chara.gif" width="200">
+
 
 **$ cat ~/intro**
 
