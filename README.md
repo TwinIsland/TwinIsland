@@ -6,4 +6,6 @@ Currently junior @UIUC, I like Computer System, Compiler, OS, and all kind of lo
 - 📫 How to reach me: see my blog [cirno.me](https://cirno.me)
 - ⚡ Fun fact: I'm a b ass player
 
+---
+
 ![](https://komarev.com/ghpvc/?username=TwinIsland)
