@@ -11,16 +11,16 @@ Swap usage:   0%
 **$ cat ~/intro**
 
 ```
-Currently CS junior @UIUC, I like System, Compiler Design, OS, and kool stuff
+Currently CS junior @UIUC, I like System, Compiler, OS, and kool stuff
 ```
 
 **$ ls -l ~/fact**
 
 ```
 🔭 I’m currently working on building my own programming language
-🌱 I’m currently learning llvm/asm and dive into k8s
+🌱 I’m currently learning asm and dive into k8s
 📫 How to reach me: see my blog https://cirno.me
-⚡ Fun fact: I'm a b ass player
+⚡ Fun fact: I'll to pet an owl
 ```
 
 **$ head misc**
@@ -29,7 +29,8 @@ Currently CS junior @UIUC, I like System, Compiler Design, OS, and kool stuff
 ❤️ b ass
 👾 music game： Chunithm, Arcaea, SDVX
 🚴‍♂️ biking
-🎧 HIFI 
+🎧 HIFI
+🌸 anime
 ```
 
 ![](https://komarev.com/ghpvc/?username=TwinIsland)
