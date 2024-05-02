@@ -39,4 +39,4 @@ C  C++  Python  Rust  JS  Java  OCaml  Zig
 ```
 
 ![](https://komarev.com/ghpvc/?username=TwinIsland)
-
+![](https://img.shields.io/badge/Nice_Pink-Tag-pink)
