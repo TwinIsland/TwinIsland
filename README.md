@@ -23,7 +23,7 @@ Currently CS junior @UIUC, I like System, Compiler, OS, and kool stuff
 ⚡ Fun fact: I want to pet an owl in my life
 ```
 
-**$ head misc**
+**$ head ~/misc**
 
 ```
 ❤️ b ass
