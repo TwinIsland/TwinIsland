@@ -32,7 +32,7 @@ C  C++  Python  Rust  JS  Java  OCaml  Zig
 **$ head ~/misc**
 
 ```
-❤️ b ass
+❤️ (b)ass
 👾 music game： Chunithm, Arcaea, SDVX
 🚴‍♂️ biking
 🎧 HIFI
