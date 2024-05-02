@@ -1,4 +1,5 @@
-## Hi there 👋 I'm TwinIsland   ![](suica_chara.gif)
+## Hi there 👋 I'm TwinIsland   
+<img src="suica_chara.gif" style="width=20px"></img>
 
 
 **$ cat ~/intro**
