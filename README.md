@@ -23,7 +23,7 @@ Currently CS junior @UIUC, I like System, Compiler, OS, and kool stuff
 ⚡ Fun fact: I want to pet an owl in my life
 ```
 
-**$ ls ~/language**
+**$ ls ~/code**
 
 ```
 C  C++  Python  Rust  JS  Java  Zig  
