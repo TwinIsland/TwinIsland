@@ -1,5 +1,5 @@
 ### Hi there 👋
-Currently junior @UIUC, I like Computer System, Compiler, OS, and all kind of low-level stuff
+Currently CS junior @UIUC, I like Computer System, Compiler Design, OS, and kool stuff
 
 - 🔭 I’m currently working on building my own programming language
 - 🌱 I’m currently learning llvm/asm and dive into k8s
