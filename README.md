@@ -26,7 +26,7 @@ Currently CS junior @UIUC, I like System, Compiler, OS, and kool stuff
 **$ ls ~/code**
 
 ```
-C  C++  Python  Rust  JS  Java  Zig  
+C  C++  Python  Rust  JS  Java  OCaml  Zig  
 ```
 
 **$ head ~/misc**
