@@ -20,7 +20,7 @@ Currently CS junior @UIUC, I like System, Compiler, OS, and kool stuff
 🔭 I’m currently working on building my own programming language
 🌱 I’m currently learning asm and dive into k8s
 📫 How to reach me: see my blog https://cirno.me
-⚡ Fun fact: I'll to pet an owl
+⚡ Fun fact: I want to pet an owl in my life
 ```
 
 **$ head misc**
