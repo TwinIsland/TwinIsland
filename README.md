@@ -5,7 +5,7 @@ System load:  0.1                Processes:           123
 Usage of /:   13.5% of 512G      Users logged in:     1
 Memory usage: 35%                IP address for eth0: 192.168.1.5
 Swap usage:   0%
-``
+```
 
 **$ cat ~/intro**
 
