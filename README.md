@@ -1,8 +1,8 @@
 ```
-Welcome to Ubuntu 20.04.4 LTS (GNU/Linux 5.4.0-42-generic x86_64)
+Welcome to ErdaoOS 1.00.0 LTS (GNU/Linux 5.4.0-42-generic x86_64)
 
-System load:  0.1                Processes:           138
-Usage of /:   13.5% of 200G      Users logged in:     1
+System load:  0.1                Processes:           123
+Usage of /:   13.5% of 512G      Users logged in:     1
 Memory usage: 35%                IP address for eth0: 192.168.1.5
 Swap usage:   0%
 ```
