@@ -10,7 +10,7 @@ Swap usage:   0%
 **$ cat ~/intro**
 
 ```
-Currently CS junior @UIUC, I like System, Compiler, and cool stuff
+Currently CS senior @UIUC, I like System, Compiler, and cool stuff
 ```
 
 **$ ls -l ~/fact**
