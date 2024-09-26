@@ -33,6 +33,8 @@ C  C++  Python  Rust  JS  Java  OCaml  Zig
 ```
 ❤️ (b)ass
 👾 music game： Chunithm, Arcaea, SDVX
+🦉 bird Photography
+⛰️ climbing
 🚴‍♂️ biking
 🎧 HIFI
 🌸 anime
