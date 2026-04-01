@@ -1,7 +1,7 @@
 **$ cat ~/intro**
 
 ```
-PhD student @NUS, I like Computer Graphic, Compiler, and cool stuff
+PhD student @ NUS, I like Computer Graphic, Compiler, and cool stuff
 ```
 
 **$ ls ~/code**
